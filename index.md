@@ -1,6 +1,5 @@
 # MIDI Controller
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
-
+Allow me introduce you to my latest creation - the MIDI Controller! This creation fuses technology and music, allowing musicians to craft amazing melodies with ease. The journey of building this was rather strenuous at times- I faced challenges left and right, but through patience and learning from failures, I conquered them all. Now, I'm excited to share this musical adventure with you and show you the magic that comes alive when creativity meets perseverance. Without further ado, let's explore the wonders of my MIDI controller together!
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
